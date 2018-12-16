@@ -1,0 +1,20 @@
+{
+  "name": "employeefinder",
+  "version": "1.0.0",
+  "description": "Build a compatibility-based \"EmployeeFinder\" application. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiranEjerenwa/EmployeeFinder.git"
+  },
+  "author": "Mirian Ejerenwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiranEjerenwa/EmployeeFinder/issues"
+  },
+  "homepage": "https://github.com/MiranEjerenwa/EmployeeFinder#readme"
+}
