@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MiranEjerenwa/EmployeeFinder/issues"
   },
-  "homepage": "https://github.com/MiranEjerenwa/EmployeeFinder#readme"
+  "homepage": "https://github.com/MiranEjerenwa/EmployeeFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
