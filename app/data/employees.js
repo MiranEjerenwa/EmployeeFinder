@@ -6,6 +6,102 @@
 
 const employees = [
     {
+        name: "Dav",
+        photo: "https://images.indianexpress.com/2017/05/art-759.png",
+        scores: [
+          "5",
+          "1",
+          "4",
+          "4",
+          "2",
+          "1",
+          "2",
+          "5",
+          "4",
+          "5"
+        ]
+      },
+    {
+        name: "DanBo",
+        photo: "http://fiscalreform.net/wp-content/uploads/clipart-soccer-player-green-black-for-alluring-football-png.png",
+        scores: [
+          "5",
+          "3",
+          "4",
+          "5",
+          "2",
+          "1",
+          "2",
+          "5",
+          "4",
+          "5"
+        ]
+      },
+    {
+        name: "Debbs",
+        photo: "https://i.pinimg.com/originals/61/4f/93/614f9336498869b7694f3c029b265678.jpg",
+        scores: [
+          "5",
+          "1",
+          "4",
+          "1",
+          "2",
+          "1",
+          "5",
+          "5",
+          "4",
+          "5"
+        ]
+      },
+    {
+        name: "Priska",
+        photo: "https://cdn.pastemagazine.com/www/articles/2018/02/15/best-family-movies-netflix.jpg",
+        scores: [
+          "5",
+          "1",
+          "3",
+          "4",
+          "2",
+          "1",
+          "2",
+          "5",
+          "4",
+          "5"
+        ]
+      },
+    {
+        name: "Charles",
+        photo: "https://media.timeout.com/images/102947272/630/472/image.jpg",
+        scores: [
+          "2",
+          "1",
+          "4",
+          "4",
+          "2",
+          "1",
+          "2",
+          "5",
+          "4",
+          "1"
+        ]
+      },
+    {
+        name: "Paschal",
+        photo: "https://www.smartparents.sg/image/10259322/16x9/640/360/c14c15f62c403c478beb7df71410435b/yh/parents-buyer-s-guide-best-family-friendly-cars-of-2018-main--1-.jpg",
+        scores: [
+          "4",
+          "3",
+          "4",
+          "4",
+          "5",
+          "5",
+          "1",
+          "5",
+          "3",
+          "1"
+        ]
+      },
+    {
       name: "Ahmed",
       photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
       scores: [

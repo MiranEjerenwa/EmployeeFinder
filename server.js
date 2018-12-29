@@ -14,7 +14,7 @@ const path = require('path');
 // Tells node that we are creating an 'express' server
 const app = express();
 
-// Sets an initial port. We'll use this later in our listener
+// Sets an initial port. 
 const PORT = process.env.PORT || 8080;
 
 // express.json and express.urlEncoded make it easy for our server to interpret data sent to it.
